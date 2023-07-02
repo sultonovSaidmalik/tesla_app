@@ -52,8 +52,9 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: [saidjon.ibn.usmon@gmail.com](mailto:saidjon.ibn.usmon@gmail.com)
-- LinkedIn: [Saidjon](https://www.linkedin.com/in/saidjonsaidov)
+- Email: [sultonov200v@gmail.com](mailto:sultonov200v@gmail.com)
+- LinkedIn: [Sultonov Saidmalik](linkedin.com/in/saidmalik-sultonov-a54bb425b)
+  
 
 Thank you for checking out the Tesla App UI project!
 
