@@ -1,0 +1,24 @@
+{
+  "str_tesla":"Tesla",
+  "str_km187":"187 km",
+  "str_control":"Boshqaruv",
+  "str_climate":"Iqlim",
+  "str_location":"Manzil",
+  "str_schedule":"Jadval",
+  "str_interior20":"Interyer 20° C",
+  "str_rue81StChales":"Sent-Charl ko'chasi 81",
+  "str_c30":"30° C",
+  "str_ac":"Ac",
+  "str_fan":"Fan",
+  "str_heat": "Issiqlik",
+  "str_auto": "Аvto",
+  "str_on":"Yoniq",
+  "str_vent":"Vent",
+  "str_c20":"20°",
+
+  "str_charging":"Quvvatlanmoqda",
+  "str_setChargeLimit":"Quvvat chegarasini o'rnatish",
+  "str_nearbySuperchargers":"Yaqin oradagi super zaryadlovchilar",
+  "str_teslaSuperchargerMontreal" :"Tesla Supercharger - Monreal, Kvebek",
+  "str_available2_4" :"2 / 4 mavjud"
+}

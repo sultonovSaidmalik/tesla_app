@@ -1,0 +1,24 @@
+{
+  "str_tesla":"Тесла",
+  "str_km187":"187 км",
+  "str_control":"Контроль",
+  "str_climate":"Климат",
+  "str_location":"Местонахождение",
+  "str_schedule":"Расписание",
+  "str_interior20":"Интерьер 20° C",
+  "str_rue81StChales":"81 улица Сен-Шарль",
+  "str_c30":"30° C",
+  "str_ac":"Ас",
+  "str_fan":"Фан",
+  "str_heat": "Нагрев",
+  "str_auto": "Авто",
+  "str_on":"Вкл",
+  "str_vent":"Вент",
+  "str_c20":"20°",
+
+  "str_charging":"Зарядка",
+  "str_setChargeLimit":"Установить лимит заряда",
+  "str_nearbySuperchargers":"Ближайшие нагнетатели",
+  "str_teslaSuperchargerMontreal" :"Tesla Supercharger - Монреаль, Квебек ",
+  "str_available2_4" :"2 / 4 доступно"
+}

@@ -1,0 +1,24 @@
+{
+  "str_tesla":"Tesla",
+  "str_km187":"187 km",
+  "str_control":"Control",
+  "str_climate":"Climate",
+  "str_location":"Location",
+  "str_schedule":"Schedule",
+  "str_interior20":"Interior 20° C",
+  "str_rue81StChales":"81 rue St-Chales",
+  "str_c30":"30° C",
+  "str_ac":"Ac",
+  "str_fan":"Fan",
+  "str_heat": "Heat",
+  "str_auto": "Auto",
+  "str_on":"On",
+  "str_vent":"Vent",
+  "str_c20":"20°",
+
+  "str_charging":"Charging",
+  "str_setChargeLimit":"Set Charge Limit",
+  "str_nearbySuperchargers":"Nearby Superchargers",
+  "str_teslaSuperchargerMontreal" :"Tesla Supercharger -Montreal, QC ",
+  "str_available2_4" :"2 / 4 available"
+}

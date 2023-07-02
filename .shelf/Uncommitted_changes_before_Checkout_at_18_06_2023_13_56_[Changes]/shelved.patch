@@ -1,0 +1,25 @@
+Index: lib/main.dart
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import 'package:flutter/material.dart';\r\nimport 'package:tesla/screens/home_screen.dart';\r\n\r\nvoid main() {\r\n  runApp(const MyApp());\r\n}\r\n\r\nclass MyApp extends StatelessWidget {\r\n  const MyApp({super.key});\r\n\r\n  @override\r\n  Widget build(BuildContext context) {\r\n    return MaterialApp(\r\n      title: 'Flutter Demo',\r\n      theme: ThemeData(\r\n        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),\r\n        useMaterial3: true,\r\n      ),\r\n      home: const HomeScreen(),\r\n    );\r\n  }\r\n}\r\n\r\nclass MyHomePage extends StatefulWidget {\r\n  const MyHomePage({super.key, required this.title});\r\n\r\n  final String title;\r\n\r\n  @override\r\n  State<MyHomePage> createState() => _MyHomePageState();\r\n}\r\n\r\nclass _MyHomePageState extends State<MyHomePage> {\r\n  int _counter = 0;\r\n\r\n  void _incrementCounter() {\r\n    setState(() {\r\n      _counter++;\r\n    });\r\n  }\r\n\r\n  @override\r\n  Widget build(BuildContext context) {\r\n    return Scaffold(\r\n      appBar: AppBar(\r\n        backgroundColor: Theme.of(context).colorScheme.inversePrimary,\r\n        title: Text(widget.title),\r\n        centerTitle: true,\r\n      ),\r\n      body: Center(\r\n        child: Column(\r\n          mainAxisAlignment: MainAxisAlignment.center,\r\n          children: <Widget>[\r\n            const Text(\r\n              'You have pushed the button this many times:',\r\n            ),\r\n            Text(\r\n              '$_counter',\r\n              style: Theme.of(context).textTheme.headlineMedium,\r\n            ),\r\n          ],\r\n        ),\r\n      ),\r\n      floatingActionButton: FloatingActionButton(\r\n        onPressed: _incrementCounter,\r\n        tooltip: 'Increment',\r\n        child: const Icon(Icons.add),\r\n      ),\r\n    );\r\n  }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lib/main.dart b/lib/main.dart
+--- a/lib/main.dart	
++++ b/lib/main.dart	
+@@ -1,5 +1,4 @@
+ import 'package:flutter/material.dart';
+-import 'package:tesla/screens/home_screen.dart';
+ 
+ void main() {
+   runApp(const MyApp());
+@@ -16,7 +15,7 @@
+         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+         useMaterial3: true,
+       ),
+-      home: const HomeScreen(),
++
+     );
+   }
+ }
